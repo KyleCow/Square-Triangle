@@ -1,4 +1,4 @@
-m = 1
+m = -1
 import math
 while 1 == 1:
     m = m + 1
